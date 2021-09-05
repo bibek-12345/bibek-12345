@@ -29,7 +29,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.tutorialspoint.com/sql/index.htm" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/50/000000/python--v2.png"/>
     <a href="https://docs.mongodb.com/manual/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
