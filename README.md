@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning Web Development & improving my skills in Data Structures and Algorithms.
   
-- 💬 Ask me about Python
+- 💬 Ask me about JavaScript
   
-- 👯 I’m looking to collaborate on OpenSource Projects
-  
-- 😄 Pronouns: He/His
+- 👯 I’m looking to collaborate on OpenSource Project.
 
 - 📫 How to reach me : **bibek.bhattarai072@gmail.com**
 
@@ -32,9 +30,9 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.tutorialspoint.com/sql/index.htm" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>    
     <a href="https://docs.mongodb.com/manual/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 </p>
 
 
