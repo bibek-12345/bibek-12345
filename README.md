@@ -1,5 +1,4 @@
 <h1 align="center">&lt;Bibek Bhattarai /&gt;</h1>
-<h3 align="center">I'm a 4th year Computer Science Student in Dr. Ambedkar Institute of Technology. </h3>
 
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
